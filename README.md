@@ -71,6 +71,8 @@
 ## Prebuilt Files
  - [Shaders](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14649717/common.zip) ([You can build your own shaders and play with them without any problem.](#building-shaders))
  - Game Scripts (Already included, [You can build your own scripts and play with them without any problem.](#building-game-scripts))
+ - [BankRelease EXE](https://drive.google.com/file/d/17Zkmoc_9RIJZNwKQyC5YWLJgf64TLuHQ/view?usp=sharing) (If you want to skip the "Building The Game Binary/Executable" step)
+
 
 ___
 
